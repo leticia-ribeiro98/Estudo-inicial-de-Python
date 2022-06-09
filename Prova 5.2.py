@@ -1,3 +1,7 @@
+#Escreva um programa que lê duas strings e imprime na tela as strings combinadas, alternando as letras de cada string, começando com a primeira letra da primeira string, seguido pela primeira letra da
+#segunda string, em seguida pela segunda letra da primeira string, e assim sucessivamente. As letras
+#restantes da string mais longa devem ser adicionadas ao final da string resultante.
+
 # -*- coding: utf-8 -*-
 
 palavra1 = input ('Digite a primeira palavra: ')
