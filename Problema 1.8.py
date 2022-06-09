@@ -1,4 +1,4 @@
-#Faça um programa que leia uma distância em milhas e apresente-a em quilômetros. Considere que:
+#Faça um programa que leia uma distância em milhas e apresente-a em quilômetros.
     
 # -*- coding: utf-8 -*-
 
