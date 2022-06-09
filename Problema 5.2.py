@@ -1,6 +1,4 @@
 #Crie um programa que recebe uma string e substitui todas as ocorrências de letras repetidas (consecutivamente) por uma única ocorrência da mesma em maiúscula.
-#Observação: as mensagens exibidas para o usuário deverão ser exatamente como apresentado abaixo
-#(mensagens exibidas com os comandos input() e print()).
 
 # -*- coding: utf-8 -*-
 
