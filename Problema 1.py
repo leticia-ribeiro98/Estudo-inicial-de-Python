@@ -1,3 +1,7 @@
+#Escreva um programa que solicita ao usuário o raio de uma circunferência e o programa imprime na
+#tela o valor do perímetro e da área dessa circunferência, além do volume da esfera formada por essa
+#circunferência. 
+
 # -*- coding: utf-8 -*-
 
 raio = float (input ('Digite o valor do raio da circunferência '))
